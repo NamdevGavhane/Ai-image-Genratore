@@ -132,6 +132,6 @@ This project is for educational/demo purposes.
 
 ---
 
-**Developed by [sanketkanse999](https://github.com/sanketkanse999)**
+**Developed by [NamdevGavhane](https://github.com/NamdevGavhane)**
 
 [⬆️ Back to top](#AI_IMAGE_GENERATOR_MERN_PROJECT)
